@@ -1,6 +1,6 @@
-### Clarusway Paths  ANİMATİON GİFT: https://ilknurtuncer.github.io/clarusway_pats/
+### Clarusway Paths  ANİMATİON GİFT: 
 
-# Clarusway Paths desing link=> https://assignment-data.vercel.app/
+# Clarusway Paths desing link=> https://ilknurtuncer.github.io/clarusway_pats/
 
 ![clarusway](assingment3.gif)
 
