@@ -1,10 +1,10 @@
-### Canlısı gözüken Clarusway Pathlerinin bulunduğu bir web sayfası tasarlayınız.
+### Clarusway Paths  ANİMATİON GİFT:
 
-Canlı Linki=> https://assignment-data.vercel.app/
+# Clarusway Paths desing link=> https://assignment-data.vercel.app/
 
 ![clarusway](assingment3.gif)
 
-### Kullanacağınız içerikler ve pathlerin linkleri
+### Links to the content and paths you will use
 
 Software Development</br>
 Become a software and application developer who is well-equipped to be a Full Stack Developer. You will learn web development with React and Python Django which are the most up-to-date front-end and back-end tools. You’ll land the best IT job by proving your skills! We support you throughout the process!
@@ -34,7 +34,7 @@ Software Development Engineer in Test</br>
 In this course, you will learn to perform all controls of the developed products in line with user requests. You will become a Test Automation Engineer, which is the popular profession of the developing world. Are you ready for a six-figure salary? It’s your time to upskill and jump in with Clarusway!
 https://clarusway.com/software-development-engineer-in-test/
 
-##### Beklenenler
+##### expected
 
 - Sayfa düzeni
 - Kullanıcı learn more butonuna bastığında yeni bir sekmede ilgili pathin sayfasının açılması
