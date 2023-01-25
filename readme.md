@@ -1,4 +1,4 @@
-### Clarusway Paths  ANİMATİON GİFT: 
+# Clarusway Paths  animation gift: 
 
 # Clarusway Paths desing link=> https://ilknurtuncer.github.io/clarusway_pats/
 
